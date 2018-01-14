@@ -1,3 +1,9 @@
+@media screen and (max-width: $viewport-small) {
+  .site-header {
+    border: none;
+  }
+}
+
 @media screen and (min-width: $viewport-small) {
   html {
     font-size: 16px;
