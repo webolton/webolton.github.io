@@ -1,13 +1,29 @@
-<footer class="center">
-  <div class="measure">
+<footer class='center'>
+  <div class='measure'>
     <small>
       Copyright &copy; {{ site.time | date: '%Y' }} William Bolton, PhD. Brought to you from beautiful South Philadelphia.</br>
-      You can find me on Twitter <a href="">@william_ellet</a>
+      <div class='social-media-footer'>
+        <div class='social-media-link'>
+          <a href='https://twitter.com/william_ellet' target='blank'>
+            <i class='fa fa-twitter-square' aria-hidden='true'></i>
+          </a>
+        </div>
+        <div class='social-media-link'>
+          <a href='https://github.com/webolton' target='blank'>
+            <i class='fa fa-github-square' aria-hidden='true'></i>
+          </a>
+        </div>
+        <div class='social-media-link'>
+          <a href='https://www.linkedin.com/in/william-bolton-8a6290104/' target='blank'>
+            <i class='fa fa-linkedin-square' aria-hidden='true'></i>
+          </a>
+        </div>
+      </div>
     </small>
   </div>
 </footer>
 {% if site.enable_anchorjs %}<!-- AnchorJS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js'></script>
 <script>
     anchors.options.visible = 'always';
     anchors.add('article h2, article h3, article h4, article h5, article h6');
