@@ -19,8 +19,8 @@ In my side-projects, I have used many of the technologies I know from work, as w
 
 For the specifics:
 
-* [Programming résumé](http://linktomyresume.com)
+* [Programming résumé](/docs/Bolton-resume-2018.pdf){:target="_blank"}
 
-* [Academic curriculum vitae](http://linktomyresume.com)
+* [Academic curriculum vitae](/docs/Bolton_CV_2018.pdf){:target="_blank"}
 
 I live in and work in Philadelphia, PA with my talented and lovely wife, [Sara Wachter-Boettcher](http://www.sarawb.com/){:target="_blank"}, and one very large cat. I blog [here](link) and on the Digital South English Legendary at [blog.digitalsel.org](http://blog.digitalsel.org/){:target="_blank"}.
