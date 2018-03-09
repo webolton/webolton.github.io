@@ -11,12 +11,12 @@ In September 2017 a group of friends and I participated in a state-wide hackatho
 
 We were later contacted by the Pennsylvania Department of State who had heard about the project and were interested in meeting with us. We dusted off our Trello board and have been meeting every week to improve the app before our meeting with Governor’s office and a committee of executives on March 14th, 2018.
 
-Check out the site at [cashflowpa.org](http://cashflowpa.org/){:target="_blank"} and follow along with our ongoing progress on [Github](https://github.com/phrig){:target="_blank"} and checkout [phrig.org](http://phrig.org/){:target="_blank"} where my friend and co-developer [Sandro](http://alessandrobraidotti.com/){:target="_blank"} has been blogging about the project.
+Check out the site at [cashflowpa.org](http://cashflowpa.org/){:target="_blank"} and follow along with our ongoing progress on [Github](https://github.com/phrig){:target="_blank"}. Also check out [phrig.org](http://phrig.org/){:target="_blank"} where my friend and co-developer [Sandro](http://alessandrobraidotti.com/){:target="_blank"} has been blogging about the project.
 
 ## Septa, where you at?
 [![Septa React cap]({{ "/images/septa_screencap.png" }})](https://github.com/webolton/septa-react-app){:target="_blank"}
 
-This is a little React app for seeing where closest bus is. The MVP returns bus locations from the Septa API, but my ultimate goal is to run the app on a Raspberry Pi with a magic mirror by my front door so that I can always see where the local buses are when I leave the house. If you have a Google API key, download the project and [run it locally](https://github.com/webolton/septa-react-app){:target="_blank"}.
+This is a little React app for seeing where the closest bus is. The MVP returns bus locations from the Septa API, but my ultimate goal is to run the app on a Raspberry Pi with a magic mirror by my front door so that I can always see where the local buses are when I leave the house. If you have a Google API key, download the project and [run it locally](https://github.com/webolton/septa-react-app){:target="_blank"}.
 
 ## The DigitalSEL
 [![DigitalSEL cap]({{ "/images/digitalsel_screencap.png" }})](http://digitalsel.org/){:target="_blank"}
